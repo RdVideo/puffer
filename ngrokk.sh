@@ -1,2 +1,2 @@
 #!/bin/sh
-./ngrok http 8080
+./ngrok http 6969
